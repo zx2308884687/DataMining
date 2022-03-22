@@ -1,5 +1,3 @@
-# DataMining使用的数据集为
+# DataMining
 
-1.Chicago Building Violations
-
-2.Wine Reviews
+互评作业
