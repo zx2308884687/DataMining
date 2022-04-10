@@ -1,0 +1,6 @@
+frozenset({'province=California'})-->frozenset({'price=price_0_50'}) support:0.5541871255461958 conf:0.7876056338028169
+frozenset({'price=price_0_50'})-->frozenset({'province=California'}) support:0.5541871255461958 conf:0.68277630395933
+frozenset({'province=California'})-->frozenset({'price=price_0_50'}) support:0.5541871255461958 conf:0.7876056338028169
+frozenset({'price=price_0_50'})-->frozenset({'province=California'}) support:0.5541871255461958 conf:0.68277630395933
+frozenset({'province=California'})-->frozenset({'price=price_0_50'}) support:0.5541871255461958 conf:0.7876056338028169
+frozenset({'price=price_0_50'})-->frozenset({'province=California'}) support:0.5541871255461958 conf:0.68277630395933
